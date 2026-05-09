@@ -6,7 +6,3 @@ body{
     padding: 20px;
     color: coral;
 }
-
-/* echo "body { background-color: blue; }" >> styles.css
-echo "body { font-family: Arial; color: red; }" > styles.css
-*/
